@@ -18,5 +18,5 @@ Contribuindo
 Se você estiver interessado em contribuir com este projeto, você pode fazer isso criando um fork do projeto no GitHub e fazendo alterações no seu fork. Depois de fazer alterações no seu fork, você pode enviar um pull request para o projeto principal.
 
 Licença
-Este projeto é licenciado sob a licença MIT.# Clima
+Este projeto é licenciado sob a licença MIT.
 
