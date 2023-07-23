@@ -1,0 +1,9 @@
+fun main(args: Array<String>) {
+    val app = WeatherApp()
+    val json = app.getWeather("São Paulo")
+
+    println(json.getString("weather"))
+    println(json.getString("main"))
+    println(json.getString("temp"))
+    println(json.getString("humidity"))
+}
